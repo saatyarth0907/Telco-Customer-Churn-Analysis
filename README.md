@@ -13,7 +13,7 @@ The objective of this project was to strengthen my skills in **data segmentation
 ---
 
 ## 📁 Dashboard File
-📊 **Telco Customer Churn Dashboard.xlsx** — This Excel file contains the full analysis, calculations, pivot tables, and dashboard visualizations.
+📊 [**Telco Customer Churn Dashboard.xlsx**](https://github.com/saatyarth0907/Telco-Customer-Churn-Analysis/blob/main/Telco%20Customer%20Churn%20Dashboard.xlsx) — This Excel file contains the full analysis, calculations, pivot tables, and dashboard visualizations.
 
 ---
 
